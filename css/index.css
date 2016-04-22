@@ -1,0 +1,226 @@
+*{margin:0; padding:0; list-style: none;}
+.swiper-container{
+	width: 6.4rem;
+	height: 10.08rem;
+}
+.page1{
+	background: url('../images/bj-1.jpg') 0 0 no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+}
+.page1 .img1{
+	width: 1.89rem;
+	height: 0.7rem;
+	padding: 0.2rem 0 0 0.2rem;
+}
+.page1 .p1{
+	width: 5.83rem;
+	height: 6rem;
+	background: url('../images/1-ic-diandi.png') 0 0 no-repeat;
+	margin: 0 auto;
+}
+.page1 .box1{
+	width: 4.40rem;
+	height: 4.40rem;
+	border:0.01rem solid #f61484;
+	border-radius: 50%;
+	background: #f61484;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -2.20rem;
+	margin-top: -2.20rem;
+	z-index: 2;
+}
+.page1 .box1 h3{
+	font-size: 1.20rem;
+	width: 4.40rem;
+	height: 4.40rem;
+	text-align: center;
+	line-height: 3.70rem;
+	color: #fff;
+	font-weight: bold;
+}
+.page1 .box1 .p2{
+	font-size: 0.6rem;
+	color: #fff;
+	width: 4.40rem;
+	margin-top: -3.1rem;
+	text-align: center;
+	line-height: 3rem;
+}
+.page1 .box1 .p3{
+	width: 0.6rem;
+	height: 0.6rem;
+	border: 0.1rem solid #089ad4;
+	border-radius: 50%;
+	margin-top: -0.6rem;
+	margin-left: 3rem;
+	background: #089ad4;
+}
+.page1 .p4{
+	width: 6.4rem;
+	font-size: 0.6rem;
+	margin-left: -0.6rem;
+    margin-top: -4.3rem;
+    color: #fff;
+    font-weight: bold;
+	z-index: 2222;
+}
+.page1 .p5{
+	width: 6.4rem;
+	font-size: 0.5rem;
+	text-align: center;
+	margin-top: 0.3.3rem;
+    color: #fff;
+    font-weight: bold;
+	z-index: 2222;
+}
+.page1 .p6{
+	width: 6.4rem;
+	font-size: 0.5rem;
+	text-align: center;
+	margin-top: 0.3rem;	
+    color: #fff;
+    font-weight: bold;
+	z-index: 2222;
+}
+.page2{
+	background: url('../images/bj-2.jpg') 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page2 .box2{
+	font-size: 1.20rem;
+	width: 6.40rem;
+	height: 8.40rem;
+	text-align: center;
+	margin-top: 1rem;
+	color: #fff;
+	font-weight: bold;
+	background: url('../images/2-bj-kuai.png') 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page2 .box2 h3{
+	font-size: 1.20rem;
+	padding-top: 2rem;
+	color: #fff;
+	font-weight: bold;
+}
+.page2 .box2 p{
+	font-size: 0.4rem;
+	padding-top: 2rem;
+	padding: 0.12rem 0.6rem;
+	color: #fff;
+	font-weight: bold;
+}
+.page3{
+	background: url('../images/bj-3.jpg') 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page3 .box3{
+	font-size: 1.20rem;
+	width: 6.40rem;
+	height: 6.40rem;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	background: url('../images/wujiaox.png') 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page3 .box3 h3{
+	font-size: 0.7rem;
+	padding-top: 2rem;
+	color: #fff;
+	font-weight: bold;
+}
+.page3 .box3 p{
+	font-size: 0.3rem;
+	padding-top: 2rem;
+	padding: 0.3rem 1.4rem;
+	color: #fff;
+	font-weight: bold;
+}
+.page4{
+	background: url('../images/bj-4.jpg') 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page4 .box4{
+	width: 6.40rem;
+	height: 8.40rem;
+	text-align: center;
+	padding: 0 0.4rem;
+	margin-top: 1rem;
+	color: #fff;
+}
+.page4 .box4 h3{
+	font-size: 0.6rem;
+	padding-top: 0.7rem;
+	margin-left: -0.8rem;
+	margin-bottom: 1rem;
+}
+.page4 .box4 .jieshao{
+	width: 2.10rem;
+	margin: 0 auto;
+}
+.page4 .box4 .jieshao img{
+	width: 2rem;
+	height: 2rem;
+	margin-left: -0.8rem;
+}
+.page4 .box4 .jieshao .name{
+	font-size: 0.5rem;
+	color: #fff;
+	margin-left: -0.85rem;
+}
+.page4 .box4 .jieshao .zhiye{
+	font-size: 0.3rem;
+	margin-top: 0.2rem;
+	margin-left: -0.85rem;
+}
+.page4 .box4 .jieshao .zylx{
+	font-size: 0.3rem;
+	margin-top: 0.2rem;
+	margin-left: -0.85rem;
+	margin-bottom: 0.5rem;
+}
+.page4 .box4 .xiangjie{
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+	margin-left: -0.85rem;
+	margin-bottom: 0.5rem;
+	padding: 0 0.4rem;
+}
+.page5{
+	background: url('../images/bj-5.jpg') 0 0 no-repeat;
+	background-size: 100% 100%;
+	overflow: hidden;
+}
+.page5 img{
+	width: 2.03rem;
+	height: 3.85rem;
+	float: left;
+	margin: 0rem 0 0 0.5rem;
+}
+.page5 .box5{
+	width: 8.4rem;
+	height: 9rem;
+	margin: 0.6rem auto;
+	margin-left: -1.5rem;
+	background: url('../images/7y-wjiaox.png') 0 0 no-repeat;
+}
+.page5 .box5 h3{
+	font-size: 0.4rem;
+	padding-top: 4rem;
+	padding-left: 3rem;
+	color: #fff;
+	font-weight: bold;
+}
+.page5 .box5 p{
+	font-size: 0.3rem;
+	padding-top: 2rem;
+	padding: 0.3rem 1.4rem;
+	padding-left: 2.6rem;
+	color: #fff;
+	font-weight: bold;
+	width: 6rem;
+}
